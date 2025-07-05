@@ -1,4 +1,4 @@
-#10340_ssm184基于JAVA的高等数学试卷自动生成系统+vue
+#10340_ssm基于JAVA的高等数学试卷自动生成系统+vue
 
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 # 项目资料获取方式
 * 需要资料或者有任何问题的加QQ：2684634017
 
-* 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=10340
+* 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=10340
 
 * 项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/828%E5%A5%97ssm%E5%BD%95%E5%83%8F/10340_ssm184%E5%9F%BA%E4%BA%8EJAVA%E7%9A%84%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E8%AF%95%E5%8D%B7%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E7%B3%BB%E7%BB%9F%2Bvue%E5%BD%95%E5%83%8F.mp4
 
